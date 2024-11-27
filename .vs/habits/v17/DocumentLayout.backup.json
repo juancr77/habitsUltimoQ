@@ -1,0 +1,329 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\habits\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\controllers\\favoritefoodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\controllers\\favoritefoodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\controllers\\favoriterecipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\controllers\\favoriterecipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\models\\favoritefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\models\\favoritefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\models\\favoriterecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\models\\favoriterecipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\controllers\\nutritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\controllers\\nutritioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\services\\nutritionixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\services\\nutritionixservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\services\\mealdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\services\\mealdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\models\\nutritioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\models\\nutritioninfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\models\\recipeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\models\\recipeinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\habits.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\habits.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|c:\\habits\\habits\\habits.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C3FD9692-75C9-44EE-ADAD-8D68D3719331}|habits\\habits.csproj|solutionrelative:habits\\habits.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0672c6e1-9edf-3be9-8226-f0823640821e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FavoriteFoodController.cs",
+              "DocumentMoniker": "C:\\habits\\habits\\Controllers\\FavoriteFoodController.cs",
+              "RelativeDocumentMoniker": "habits\\Controllers\\FavoriteFoodController.cs",
+              "ToolTip": "C:\\habits\\habits\\Controllers\\FavoriteFoodController.cs",
+              "RelativeToolTip": "habits\\Controllers\\FavoriteFoodController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:57:16.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\habits\\habits\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "habits\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\habits\\habits\\Controllers\\UserController.cs",
+              "RelativeToolTip": "habits\\Controllers\\UserController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:55:58.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FavoriteFood.cs",
+              "DocumentMoniker": "C:\\habits\\habits\\Models\\FavoriteFood.cs",
+              "RelativeDocumentMoniker": "habits\\Models\\FavoriteFood.cs",
+              "ToolTip": "C:\\habits\\habits\\Models\\FavoriteFood.cs",
+              "RelativeToolTip": "habits\\Models\\FavoriteFood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:02:10.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FavoriteRecipe.cs",
+              "DocumentMoniker": "C:\\habits\\habits\\Models\\FavoriteRecipe.cs",
+              "RelativeDocumentMoniker": "habits\\Models\\FavoriteRecipe.cs",
+              "ToolTip": "C:\\habits\\habits\\Models\\FavoriteRecipe.cs",
+              "RelativeToolTip": "habits\\Models\\FavoriteRecipe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:01:47.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\habits\\habits\\Program.cs",
+              "RelativeDocumentMoniker": "habits\\Program.cs",
+              "ToolTip": "C:\\habits\\habits\\Program.cs",
+              "RelativeToolTip": "habits\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAkwBoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:58:05.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FavoriteRecipeController.cs",
+              "DocumentMoniker": "C:\\habits\\habits\\Controllers\\FavoriteRecipeController.cs",
+              "RelativeDocumentMoniker": "habits\\Controllers\\FavoriteRecipeController.cs",
+              "ToolTip": "C:\\habits\\habits\\Controllers\\FavoriteRecipeController.cs",
+              "RelativeToolTip": "habits\\Controllers\\FavoriteRecipeController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T00:56:36.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\habits\\habits\\Models\\User.cs",
+              "RelativeDocumentMoniker": "habits\\Models\\User.cs",
+              "ToolTip": "C:\\habits\\habits\\Models\\User.cs",
+              "RelativeToolTip": "habits\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T06:01:02.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\habits\\habits\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "habits\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\habits\\habits\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "habits\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T05:58:47.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\habits\\habits\\appsettings.json",
+              "RelativeDocumentMoniker": "habits\\appsettings.json",
+              "ToolTip": "C:\\habits\\habits\\appsettings.json",
+              "RelativeToolTip": "habits\\appsettings.json",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-25T10:53:01.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MealDBService.cs",
+              "DocumentMoniker": "C:\\habits\\habits\\Services\\MealDBService.cs",
+              "RelativeDocumentMoniker": "habits\\Services\\MealDBService.cs",
+              "ToolTip": "C:\\habits\\habits\\Services\\MealDBService.cs",
+              "RelativeToolTip": "habits\\Services\\MealDBService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:46:07.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NutritionixService.cs",
+              "DocumentMoniker": "C:\\habits\\habits\\Services\\NutritionixService.cs",
+              "RelativeDocumentMoniker": "habits\\Services\\NutritionixService.cs",
+              "ToolTip": "C:\\habits\\habits\\Services\\NutritionixService.cs",
+              "RelativeToolTip": "habits\\Services\\NutritionixService.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAwwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:57:19.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NutritionController.cs",
+              "DocumentMoniker": "C:\\habits\\habits\\Controllers\\NutritionController.cs",
+              "RelativeDocumentMoniker": "habits\\Controllers\\NutritionController.cs",
+              "ToolTip": "C:\\habits\\habits\\Controllers\\NutritionController.cs",
+              "RelativeToolTip": "habits\\Controllers\\NutritionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:16:22.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NutritionInfo.cs",
+              "DocumentMoniker": "C:\\habits\\habits\\Models\\NutritionInfo.cs",
+              "RelativeDocumentMoniker": "habits\\Models\\NutritionInfo.cs",
+              "ToolTip": "C:\\habits\\habits\\Models\\NutritionInfo.cs",
+              "RelativeToolTip": "habits\\Models\\NutritionInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:43:49.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RecipeController.cs",
+              "DocumentMoniker": "C:\\habits\\habits\\Controllers\\RecipeController.cs",
+              "RelativeDocumentMoniker": "habits\\Controllers\\RecipeController.cs",
+              "ToolTip": "C:\\habits\\habits\\Controllers\\RecipeController.cs",
+              "RelativeToolTip": "habits\\Controllers\\RecipeController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:38:20.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RecipeInfo.cs",
+              "DocumentMoniker": "C:\\habits\\habits\\Models\\RecipeInfo.cs",
+              "RelativeDocumentMoniker": "habits\\Models\\RecipeInfo.cs",
+              "ToolTip": "C:\\habits\\habits\\Models\\RecipeInfo.cs",
+              "RelativeToolTip": "habits\\Models\\RecipeInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:45:37.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\habits\\habits\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "habits\\WeatherForecast.cs",
+              "ToolTip": "C:\\habits\\habits\\WeatherForecast.cs",
+              "RelativeToolTip": "habits\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:56:48.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\habits\\habits\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "habits\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\habits\\habits\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "habits\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:07:47.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "habits.http",
+              "DocumentMoniker": "C:\\habits\\habits\\habits.http",
+              "RelativeDocumentMoniker": "habits\\habits.http",
+              "ToolTip": "C:\\habits\\habits\\habits.http",
+              "RelativeToolTip": "habits\\habits.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-26T01:20:33.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "habits.csproj",
+              "DocumentMoniker": "C:\\habits\\habits\\habits.csproj",
+              "RelativeDocumentMoniker": "habits\\habits.csproj",
+              "ToolTip": "C:\\habits\\habits\\habits.csproj",
+              "RelativeToolTip": "habits\\habits.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-25T10:51:59.638Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
